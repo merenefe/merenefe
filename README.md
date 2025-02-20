@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Unity**
 
-- 🌱 I’m currently learning **React & Node.js**
+- 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **is.merenefe@gmail.com**
 
